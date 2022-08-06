@@ -1,1 +1,2 @@
-# Server_test
+サーバーをたて、Javascriptから実行する練習
+もととなるjsやhtml、スタイルシート、htmlのjsなど
